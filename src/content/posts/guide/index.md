@@ -2,7 +2,7 @@
 title: Welcome to my graden.
 published: 2026-01-12
 description: "Movie starts."
-image: "./好友位.jpg"
+image: "./1.jpg"
 tags: ["Blogging", "Self-intro"]
 category: Guides
 draft: false
