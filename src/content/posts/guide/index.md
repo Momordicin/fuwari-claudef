@@ -1,36 +1,36 @@
 ---
-title: Welcome to my graden.
-published: 2026-01-12
+title: Welcome!
+published: 2026-01-16
 description: "Movie starts."
 image: "./1.jpg"
-tags: ["Blogging", "Self-intro"]
+tags: ["Self-intro"]
 category: Guides
 draft: false
 ---
 
-## Front-matter of Posts
+## 自我介绍
+Ciallo ～(∠・ω< )⌒★! 这里是没有天赋的AI工程师一枚, 可以叫我慕雨.
+兴趣是小提琴, b站自学日语中...
 
+在读AI硕士, 目前学研方向是RAG. 
+完成了对RAG系列的初步调研学习, 基于个人划定的场景, 进行了复现.
+基于此, 计划本学期在生日以前完成一个虚拟AI女友的demo(跳度有点太大了吧!).
 
-| Attribute     | Description                                                                                                                                                                                                 |
-|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `title`       | The title of the post.                                                                                                                                                                                      |
-| `published`   | The date the post was published.                                                                                                                                                                            |
-| `description` | A short description of the post. Displayed on index page.                                                                                                                                                   |
-| `image`       | The cover image path of the post.<br/>1. Start with `http://` or `https://`: Use web image<br/>2. Start with `/`: For image in `public` dir<br/>3. With none of the prefixes: Relative to the markdown file |
-| `tags`        | The tags of the post.                                                                                                                                                                                       |
-| `category`    | The category of the post.                                                                                                                                                                                   |
-| `draft`        | If this post is still a draft, which won't be displayed.                                                                                                                                                    |
+## 在做项目 - AI Bot 拆解
+1. 语音识别
+2. 对话功能
+    开发优先级:
+    1. 1种角色设置: 情感博主
+    2. 1种日志记忆体开发: 多个情感案例库
+    3. 1个场景的语义和情绪(语境)召回和对话: 情感连线
 
-## Where to Place the Post Files
-
-
-
-Your post files should be placed in `src/content/posts/` directory. You can also create sub-directories to better organize your posts and assets.
-
-```
-src/content/posts/
-├── regex.md
-└── post1/
-    ├── cover.png
-    └── index.md
-```
+    待定:
+    1. 探索和调研阶段的: 
+        1.1 基于搜索引擎的知识增强, 可能会结合LightRAG和ragflow, 重点调研速度和准确度
+        1.2 角色: 
+            a. 多角色调研
+            b. 复杂设置
+            c. 分对话 -> 不分对话 (场景分割)
+    2. 待开发阶段的:
+        ...
+3. 文本转语音输出
