@@ -1,6 +1,6 @@
 ---
 title: 文本正则记录
-published: 2026-01-13 
+published: 2026-01-14 
 description: "自存--中文零售文本正则处理SOP"
 tags: ["Blogging", "Regex", "Python"]
 category: Data Science
