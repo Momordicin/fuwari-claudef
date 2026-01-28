@@ -9,16 +9,15 @@ draft: false
 None: Finished  
 √: Reading  
 X: Reviewing  
- : Pending  
+[×]: Pending  
 # 社会  
 ## 百家  
 邓析子  
 道德经  
 商君书  
 韩非子  
-[ ] 冰鉴  
+[×] 冰鉴  
 ## 思维教育  
-老派少女购物路线  
 小狗钱钱  
 穷爸爸富爸爸  
 优秀的绵羊  
@@ -33,7 +32,7 @@ Learn How to Learn
 六顶思考帽  
 ## 社科  
 定位  
-[ ] 支配与抵抗艺术-潜隐剧本  
+[×] 支配与抵抗艺术-潜隐剧本  
 脏活  
 人性的弱点  
 狂女的逆袭  
@@ -42,8 +41,10 @@ Learn How to Learn
 非暴力沟通  
 有效对话  
 幽默感  
-[ ] 秘密  
-[ ] 影响力  
+[×] 秘密  
+[×] 影响力  
+## 散文
+老派少女购物路线  
 # 健康  
 斯坦福高质量睡眠  
 超越百岁  
@@ -59,6 +60,6 @@ TA Learning Course
 如何管理 10 人以下小团队  
 重新定义团队 -- 谷歌如何工作  
 P1 Course    
-CYber Security  
+Cyber Security  
 ## 求学  
 离开学术界
