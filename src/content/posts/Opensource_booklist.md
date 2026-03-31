@@ -1,9 +1,9 @@
 ---  
 title: 个人书单  
-published: 2026-01-18   
-description: "主要是书"  
-tags: ["Blogging", "Reading"]  
-category: Lifelong Study  
+published: 2026-03-30   
+description: "Booklist for past few years"  
+tags: ["Life-long Study"]  
+category: Blogging,Reading  
 draft: false  
 ---  
 None: Finished  
@@ -17,6 +17,7 @@ X: Reviewing
 商君书  
 韩非子  
 [×] 冰鉴  
+[×] 国富论  
 ## 思维教育  
 小狗钱钱  
 穷爸爸富爸爸  
@@ -30,7 +31,13 @@ Learn How to Learn
 模型思维  
 福格行为模型   
 六顶思考帽  
+[×] 认知觉醒  
+简单的逻辑学  
+麻省理工深度思考法  
+情绪处理  
 ## 社科  
+国富论  
+异类  
 定位  
 [×] 支配与抵抗艺术-潜隐剧本  
 脏活  
@@ -41,10 +48,17 @@ Learn How to Learn
 非暴力沟通  
 有效对话  
 幽默感  
+[×] 小岛经济学  
 [×] 秘密  
 [×] 影响力  
-## 散文
+## 散文  
 老派少女购物路线  
+## 其他  
+困在时间里的父子  
+## 故事  
+鸣潮 1.3 2 3.1  
+明日方舟 主线 孤星  
+[×] 崩铁  
 # 健康  
 斯坦福高质量睡眠  
 超越百岁  
@@ -57,9 +71,24 @@ OKR
 场景化沟通  
 李育辉组织行为学讲义  
 TA Learning Course  
-如何管理 10 人以下小团队  
+如何管理10人以下小团队  
 重新定义团队 -- 谷歌如何工作  
 P1 Course    
-Cyber Security  
+穿搭  
 ## 求学  
-离开学术界
+离开学术界  
+## 传达  
+零售的哲学  
+失败的艺术  
+# 其他未读  
+国富论  
+故事  
+金字塔原理  
+自私的基因  
+人类简史  
+自控力  
+掌控习惯  
+那瓦尔宝典  
+消失的多巴胺  
+认知觉醒  
+异类
