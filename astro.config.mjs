@@ -1,3 +1,4 @@
+import rehypeExternalLinks from 'rehype-external-links'
 import sitemap from "@astrojs/sitemap";
 import svelte from "@astrojs/svelte";
 import tailwind from "@astrojs/tailwind";
@@ -113,6 +114,7 @@ export default defineConfig({
 			parseDirectiveNode,
 		],
 		rehypePlugins: [
+			[rehypeExternalLinks, { target: '_blank', rel: ['noopener', 'noreferrer'] }],
 			rehypeKatex,
 			rehypeSlug,
 			[
