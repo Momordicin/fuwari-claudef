@@ -1,17 +1,19 @@
 ---  
 title: 个人书单  
-published: 2026-03-30   
-description: "Booklist for past few years"  
-tags: ["Life-long Study"]  
-category: Blogging,Reading  
+published: 2026-03-30  
+description: Booklist for past few years  
+tags:  
+  - Life-long Study  
+category: Blogging, Reading  
 draft: false  
 ---  
 None: Finished  
-√: Reading  
+√: Reading or Finished  
 X: Reviewing  
 [×]: Pending  
 # 社会  
 ## 百家  
+毛泽东选集  
 邓析子  
 道德经  
 商君书  
@@ -19,6 +21,7 @@ X: Reviewing
 [×] 冰鉴  
 [×] 国富论  
 ## 思维教育  
+贪婪的多巴胺  
 小狗钱钱  
 穷爸爸富爸爸  
 优秀的绵羊  
@@ -39,6 +42,7 @@ Learn How to Learn
 国富论  
 异类  
 定位  
+影响力  
 [×] 支配与抵抗艺术-潜隐剧本  
 脏活  
 人性的弱点  
@@ -48,24 +52,29 @@ Learn How to Learn
 非暴力沟通  
 有效对话  
 幽默感  
+原则  
 [×] 小岛经济学  
 [×] 秘密  
-[×] 影响力  
 ## 散文  
 老派少女购物路线  
 ## 其他  
 困在时间里的父子  
 ## 故事  
-鸣潮 1.3 2 3.1  
-明日方舟 主线 孤星  
-[×] 崩铁  
+鸣潮主线  
+Nikke主线  
 # 健康  
 斯坦福高质量睡眠  
 超越百岁  
 癌症大突破  
 我们时代的神经与精神疾病  
 # 面包事大  
+## AI  
+工程控制论  
+Build a Large Language Model (From Scratch)  
+Machine Learning System Design With end-to-end examples  
+[cs231n 2025](https://cs231n.stanford.edu/)  
 ## 职场  
+[大暄哥](https://www.bilibili.com/cheese/play/ss34295)  
 OKR  
 关键跃升  
 场景化沟通  
@@ -75,12 +84,15 @@ TA Learning Course
 重新定义团队 -- 谷歌如何工作  
 P1 Course    
 穿搭  
+The 12 week year  
+乔布斯的魔力演讲  
 ## 求学  
 离开学术界  
 ## 传达  
 零售的哲学  
 失败的艺术  
 # 其他未读  
+鲁迅全集  
 国富论  
 故事  
 金字塔原理  
