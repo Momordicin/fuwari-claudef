@@ -1,14 +1,13 @@
 ---  
 title: 个人书单  
-published: 2026-03-30  
+published: 2026-06-16  
 description: Booklist for past few years  
-tags:  
-  - Life-long Study  
-category: Blogging, Reading  
+tags: [Reading]  
+category: Lifelong Study  
 draft: false  
 ---  
 None: Finished  
-√: Reading or Finished  
+√: Reading  
 X: Reviewing  
 [×]: Pending  
 # 社会  
@@ -18,14 +17,13 @@ X: Reviewing
 道德经  
 商君书  
 韩非子  
-[×] 冰鉴  
-[×] 国富论  
+冰鉴  
 ## 思维教育  
 贪婪的多巴胺  
 小狗钱钱  
 穷爸爸富爸爸  
 优秀的绵羊  
-思考, 快与慢  
+x 思考, 快与慢  
 反脆弱  
 福格行为模型  
 Learn How to Learn  
@@ -39,7 +37,6 @@ Learn How to Learn
 麻省理工深度思考法  
 情绪处理  
 ## 社科  
-国富论  
 异类  
 定位  
 影响力  
@@ -49,7 +46,7 @@ Learn How to Learn
 狂女的逆袭  
 男性的衰落  
 生育制度  
-非暴力沟通  
+x 非暴力沟通  
 有效对话  
 幽默感  
 原则  
@@ -69,9 +66,12 @@ Nikke主线
 我们时代的神经与精神疾病  
 # 面包事大  
 ## AI  
-工程控制论  
+√ 工程控制论  
 Build a Large Language Model (From Scratch)  
 Machine Learning System Design With end-to-end examples  
+√ [Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)  
+√ [Zero-to-hero: Andrewj Karpathy](https://karpathy.ai/zero-to-hero.html)  
+√ [Lilian Weng Blog](https://lilianweng.github.io/)  
 [cs231n 2025](https://cs231n.stanford.edu/)  
 ## 职场  
 [大暄哥](https://www.bilibili.com/cheese/play/ss34295)  
