@@ -1,6 +1,6 @@
 ---  
 title: Welcome!  
-published: 2026-01-13   
+published: 2026-01-18   
 description: "Movie starts."  
 image: "./1.jpg"  
 tags: ["Self-intro"]  
