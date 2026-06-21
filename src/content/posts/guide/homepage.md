@@ -1,10 +1,11 @@
 ---  
 title: Welcome!  
-published: 2026-01-18   
+published: 2026-01-13   
 description: "Movie starts."  
 image: "./1.jpg"  
 tags: ["Self-intro"]  
 category: Guides  
+pinned: true  
 draft: false  
 ---  
 # 自我介绍  
