@@ -18,7 +18,13 @@ async function getRawSortedPosts() {
 }
 
 export async function getSortedPosts() {
-	const sorted = await getRawSortedPosts();
+	
+	const rawSorted = await getRawSortedPosts();
+	const sorted = rawSorted.sort((a, b) => {
+    if (a.data.pinned && !b.data.pinned) return -1;
+    if (!a.data.pinned && b.data.pinned) return 1;
+    return 0;
+  });
 
 	for (let i = 1; i < sorted.length; i++) {
 		sorted[i].data.nextSlug = sorted[i - 1].slug;
