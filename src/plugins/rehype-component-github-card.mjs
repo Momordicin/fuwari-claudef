@@ -66,7 +66,9 @@ export function GithubCardComponent(properties, children) {
         const avatarEl = document.getElementById('${cardUuid}-avatar');
         avatarEl.style.backgroundImage = 'url(' + data.owner.avatar_url + ')';
         avatarEl.style.backgroundColor = 'transparent';
-        document.getElementById('${cardUuid}-license').innerText = data.license?.spdx_id || "no-license";
+        document.getElementById('${cardUuid}-license').innerText = repo.license?.spdx_id === 'NOASSERTION' 
+  																? (repo.license?.name ?? 'Custom') 
+  																: repo.license?.spdx_id
         document.getElementById('${cardUuid}-card').classList.remove("fetch-waiting");
         console.log("[GITHUB-CARD] Loaded card for ${repo} | ${cardUuid}.")
       }).catch(err => {

@@ -2,7 +2,7 @@
 title: 文本正则记录
 published: 2026-01-14 
 description: "自存--中文零售文本正则处理SOP"
-tags: ["Blogging", "Regex", "Python"]
+tags: ["Python", "Regex"] 
 category: Data Science
 draft: false
 ---

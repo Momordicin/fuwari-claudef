@@ -1,9 +1,8 @@
-# 赞助
+# 关于我
 
-
-::github{repo="saicaca/fuwari"}
+::github{repo="Momordicin/MintBot"}
+::github{repo="Momordicin/obsidian2openmd"}
 
 > ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+> - [纸信圈儿](https://gamecms-res-hw.sl916.com/official_website_resource/60001/4/PICTURE/20250310/EN横6_4a3c4168d8174a958ce1f97016f59b65.jpg) by [Reverse: 1999](https://re1999.bluepoch.com/en/home/#0)
+> - [Mint NIKKEfanart](https://x.com/sp__mino2/status/2057055432657793534) by [mino](https://x.com/sp__mino2)

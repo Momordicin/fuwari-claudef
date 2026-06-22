@@ -1,5 +1,5 @@
 ---  
-title: Git自用手册  
+title: 项目开发Git使用手册  
 published: 2026-06-19  
 description: Booklist for past few years  
 tags: [Github,Git]  
