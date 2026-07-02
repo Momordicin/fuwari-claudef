@@ -1,7 +1,7 @@
 ---  
 title: 斯坦福高质量睡眠  
 description: 精炼清单  
-tags: [睡眠, 神经突触, 工作记忆]  
+tags: [睡眠,神经突触,工作记忆]  
 category: 健康  
 draft: false  
 published: 2026-07-02  
