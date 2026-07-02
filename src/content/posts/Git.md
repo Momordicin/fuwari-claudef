@@ -1,7 +1,7 @@
 ---  
 title: 项目开发Git使用手册  
 published: 2026-06-19  
-description: Booklist for past few years  
+description: 基于Git开发的入门指南  
 tags: [Github,Git]  
 category: Coding  
 draft: false  
