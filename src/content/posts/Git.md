@@ -48,25 +48,38 @@ git log --oneline --graph # 图形化方式看提交历史和分支走向, 如 �
   
 # 3. 提交  
 git status  
-git add . --dry-run # check  
+git rm -r --cached __pycache__   
+# 是删除已经被追踪上传过的__pycache__文件夹  
+git add . --dry-run # check, 一定要先check一遍  
 git add . # 提交  
-git commit -m "docs: your change description" # 增加提交描述  
+git commit -m "docs: your change description Closes" -m "Closes #3"  
+# -m "Closes #3", -m "Fixes #3", -m "Resolves #3"  
+# 增加提交描述并关闭对应编号的Issue  
 # feat: 新功能  
 # fix: 修bug  
 # chore: 杂项  
 # docs: 文档  
 # refactor: 重构  
-  
-git rm -r --cached __pycache__   
-# 是删除已经被追踪上传过的__pycache__文件夹  
 git add .gitignore  
 git commit -m ""  
 # amend 只用于未 push 的提交  
 git commit --amend --no-edit  
 git commit --amend -m "feat: add provider" -m "支持 Anthropic 和 Ollama" -m "由配置决定"  
+git log --oneline # 查看版本  
   
   
 # 4. 推送到仓库  
+## 4.0 合并之前的操作  
+git format-patch main..refactor/en-comments -o patches/ # 打patch备份  
+  
+# git chechout main  
+# git cherry-pick <commit-hash>  
+# 及时更新部分代码到其他分支, 如从main单独下拉某个涉及到当前开发的commit(bug修复等), 或者本次开发顺带修复了某个bug, 开发过程中其实分出了两个功能开发, 都可以用cherry-pick来by commits进行合并或转移  
+# 详情可以看 阮一峰教程:   
+# https://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html  
+  
+## 4.1 push到main  
+git push -u origin refactor/en-comments # 首次push需要指定远程分支  
 git push origin refactor/en-comments --force-with-lease# 和前面的分支名字一致  
 # `--force-with-lease` 会先检查远程分支有没有别人的新提  
 # 如果有就拒绝推送,避免你覆盖掉别人的工作  
