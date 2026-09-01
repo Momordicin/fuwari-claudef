@@ -19,7 +19,8 @@ X: Reviewing
 韩非子  
 冰鉴  
 ## 思维教育  
-√ 自学大全  
+习惯心理学 如何实现持久的积极改变  
+自学大全  
 小狗钱钱  
 穷爸爸富爸爸  
 优秀的绵羊  
@@ -30,10 +31,10 @@ Learn How to Learn
 去做自己的山  
 模型思维  
 福格行为模型   
-六顶思考帽  
+√ 六顶思考帽  
 简单的逻辑学  
 麻省理工深度思考法  
-  
+√ 自控力  
 ## 社科  
 异类  
 定位  
@@ -43,7 +44,7 @@ Learn How to Learn
 狂女的逆袭  
 男性的衰落  
 生育制度  
-x 非暴力沟通  
+√ 非暴力沟通  
 有效对话  
 幽默感  
 原则  
@@ -55,6 +56,7 @@ x 非暴力沟通
 植物妻子  
 素食者  
 你当像鸟飞往你的山  
+√ 杨振宁文集传记 演讲 随笔  
 # 二次元  
 终将成为你  
 绿协  
@@ -87,7 +89,7 @@ The Sleep Solution
 [×]  工程控制论  
 Build a Large Language Model (From Scratch)  
 Machine Learning System Design With end-to-end examples  
-√ [Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)  
+[Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)  
 √ [Zero-to-hero: Andrewj Karpathy](https://karpathy.ai/zero-to-hero.html)  
 [×]  [Lilian Weng Blog](https://lilianweng.github.io/)  
 [cs231n 2025](https://cs231n.stanford.edu/)  
@@ -104,6 +106,7 @@ P1 Course  
 穿搭  
 The 12 week year  
 乔布斯的魔力演讲  
+沧浪之水  
 ## 求学  
 离开学术界  
 ## 传达  
@@ -111,12 +114,14 @@ The 12 week year
 失败的艺术  
 # 未读  
 鲁迅全集  
+亲密关系 Intimate Relationship  
+爱的艺术  
+  
 国富论  
 故事  
 金字塔原理  
 自私的基因  
 人类简史  
-自控力  
 掌控习惯  
 那瓦尔宝典  
 消失的多巴胺  
@@ -129,3 +134,10 @@ The 12 week year
 失语者  
 命运石之门  
 支配与抵抗艺术-潜隐剧本  
+乡土中国  
+纸上的权利  
+公主之死  
+地理学与生活  
+社会学 Pearson  
+国家与生活机遇  
+什么是民粹主义 杨 - 维尔纳 米勒
