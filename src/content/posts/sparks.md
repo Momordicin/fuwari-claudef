@@ -1,10 +1,10 @@
 ---  
-title:  
-description:  
+title: Sparks  
+description: Who Inspired Me  
 tags:  
-category:  
-draft: true  
-published: 2026-01-18  
+category: Lifelong Study  
+draft: false  
+published: 2026-09-10  
 ---  
 # 我为什么要建这样一个文档  
 当我坚持不下去的时候, 回头看看他们, 他们是我的来时路, 以前是, 现在是, 以后也是  
