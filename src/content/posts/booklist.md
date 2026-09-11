@@ -25,7 +25,7 @@ X: Reviewing
 穷爸爸富爸爸  
 优秀的绵羊  
 x 思考, 快与慢  
-反脆弱  
+√ 反脆弱  
 福格行为模型  
 Learn How to Learn  
 去做自己的山  
@@ -53,6 +53,7 @@ Learn How to Learn
 朝花夕拾  
 台北女生  
 ## 其他  
+√ 九篇雪  
 植物妻子  
 素食者  
 你当像鸟飞往你的山  
@@ -84,6 +85,9 @@ Nikke主线
 斯坦福自我关怀课  
 情绪处理  
 The Sleep Solution  
+√ 伯恩斯新情绪疗法3  
+√ Feeling Good Together : The Secret to Making Troubled Relationships Work  
+√ Attached Are you Anxious, Avoidant or Secure  
 # 面包事大  
 ## AI  
 [×]  工程控制论  
@@ -116,7 +120,6 @@ The 12 week year
 鲁迅全集  
 亲密关系 Intimate Relationship  
 爱的艺术  
-  
 国富论  
 故事  
 金字塔原理  
@@ -140,4 +143,4 @@ The 12 week year
 地理学与生活  
 社会学 Pearson  
 国家与生活机遇  
-什么是民粹主义 杨 - 维尔纳 米勒
+什么是民粹主义 杨 - 维尔纳 米勒  
