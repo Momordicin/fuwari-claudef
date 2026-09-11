@@ -1,7 +1,7 @@
 ---  
 title: Sparks  
 description: Who Inspired Me  
-tags:  
+tags: ["#type/guide", "#Reading"]  
 category: Lifelong Study  
 draft: false  
 published: 2026-09-10  
